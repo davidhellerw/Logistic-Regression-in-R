@@ -1,4 +1,4 @@
-# Predicting Diabetes Onset Using Logistic Regression
+# Predicting Diabetes Onset Using Logistic Regression in R
 
 ## Introduction
 

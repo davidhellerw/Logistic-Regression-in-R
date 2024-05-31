@@ -19,6 +19,23 @@ The [Pima Indians Diabetes Database (from Kaggle)](https://www.kaggle.com/uciml/
 5. **Model Evaluation:** The performance of the model is assessed using metrics such as accuracy, precision, recall, F1 score, and the area under the ROC curve (AUC).
 6. **Visualization:** The ROC curve is plotted to visualize the model's discriminative ability.
 
+## Optimal Model
+
+![Optimal Model](https://github.com/davidhellerw/Logistic-Regression-in-R/blob/main/optimal_model_summary.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](https://github.com/davidhellerw/Logistic-Regression-in-R/blob/main/confusion_matrix)
+
+## ROC Graph
+
+![ROC Graph](https://github.com/davidhellerw/Logistic-Regression-in-R/blob/main/ROC_plot)
+
+
+
+
+
+
 ## Conclusions
 
 **Strengths of the Model:**

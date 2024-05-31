@@ -15,8 +15,9 @@ The [Pima Indians Diabetes Database (from Kaggle)](https://www.kaggle.com/uciml/
 1. **Data Loading and Exploration:** The dataset is loaded and examined to understand its structure and contents.
 2. **Model Building:** An initial logistic regression model is fitted using all available predictors.
 3. **Model Optimization:** The model is refined using stepwise selection to retain the most significant predictors.
-4. **Model Evaluation:** The performance of the model is assessed using metrics such as accuracy, precision, recall, F1 score, and the area under the ROC curve (AUC).
-5. **Visualization:** The ROC curve is plotted to visualize the model's discriminative ability.
+4. **Models Comparison:** The full model and the optimal model are compared to understand which one performs better and why.
+5. **Model Evaluation:** The performance of the model is assessed using metrics such as accuracy, precision, recall, F1 score, and the area under the ROC curve (AUC).
+6. **Visualization:** The ROC curve is plotted to visualize the model's discriminative ability.
 
 ## Conclusions
 
